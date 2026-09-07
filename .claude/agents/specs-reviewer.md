@@ -33,7 +33,7 @@ Your job is to check the staged diff against these five criteria, IN ORDER:
 
 **C — Context**
 
-- Does the change actually implement what PLAN.md asked for?
+- Does the change actually implement what SPEC.md asked for?
 - No scope creep (features or refactors the plan didn't mention)
 - All planned files are present and modified; nothing important was skipped
 - The definition of done from the plan is met
